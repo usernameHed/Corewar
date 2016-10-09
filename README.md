@@ -19,5 +19,9 @@ Presentation video
 
 
 Graphic rendering !
+ - multithread dividing the particle into 4 groups
+ - music
+ - clean HUD who display informations about the game, progress bar and custom texte (which is not handled by the graphic librairy used for this exercice !)
+ - animation and particle
 ![alt tag](https://raw.githubusercontent.com/usernameHed/Corewar/master/Corewar.gif)
 
