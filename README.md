@@ -34,3 +34,5 @@ Graphic rendering !
  - animation and particle effects
 ![alt tag](https://raw.githubusercontent.com/usernameHed/Corewar/master/Corewar.gif)
 
+how to use:
+./corewar champ/42.cor champ/Torpille.cor champ/old/ebola2.cor champ/old/lucky_luke.cor
