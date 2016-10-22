@@ -38,6 +38,9 @@ how to use:
 ./corewar champ/42.cor champ/Torpille.cor champ/old/ebola2.cor champ/old/lucky_luke.cor
 
 Youtube:
+
 Corewar Presentation: https://www.youtube.com/watch?v=WUSCLCgfVPA
+
 Corewar Engine: https://www.youtube.com/watch?v=qUgTWQ9oyIo
+
 Corewar: https://www.youtube.com/watch?v=9OQmxnrX0IY
